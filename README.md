@@ -9,7 +9,7 @@ Glorified fancy data indexing! A short series of exercises/programming motivated
 	- $n$ number of entries in the table
 	- $k$ number of buckets
 - collision-resolution
-- lookup-table $\text{set} S$ of $n$-elements defines an __associative array__ $A$ of length $m$ st $m \geq n$
+- lookup-table $\text{Set } S$ of $n$-elements defines an __associative array__ $A$ of length $m$ st $m \geq n$
 - integer universe assumption
 
 
